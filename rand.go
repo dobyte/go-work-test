@@ -2,6 +2,6 @@ package goworktest
 
 import "math/rand"
 
-func Int() int64 {
+func Int64() int64 {
 	return rand.Int63()
 }

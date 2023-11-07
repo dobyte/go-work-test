@@ -16,3 +16,7 @@ func Int32() int32 {
 func Int64() int64 {
 	return goworktest.Int64()
 }
+
+func A() string {
+	return "A"
+}
